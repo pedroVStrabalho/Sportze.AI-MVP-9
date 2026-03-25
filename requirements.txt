@@ -2,6 +2,7 @@ streamlit
 pandas
 requests
 beautifulsoup4
-opencv-python
-mediapipe
 Pillow
+lxml
+mediapipe
+opencv-python-headless
